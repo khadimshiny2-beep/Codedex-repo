@@ -1,0 +1,1 @@
+This repo was created during my learning session with Codedex. It contains a few .py files that I also created when I was learning Python, Numpy, Pandas and Matplotlib. It's a really really good website, you should try it if you wanna learn CS basics.
